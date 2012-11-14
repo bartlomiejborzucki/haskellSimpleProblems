@@ -32,29 +32,19 @@ List of problems:
 
 
 ###problem 7
-descriptions:
-By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
-
-What is the 10001st prime number?
-
+>By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13. What is the 10001st prime number?
 
 
 
 ###problem 9 
-descriptions:
-A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
-a2 + b2 = c2
-
-For example, 3^2 + 4^2 = 9 + 16 = 25 = 5^2.
-
-There exists exactly one Pythagorean triplet for which a + b + c = 1000.
-Find the product abc.
+>A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
+>a2 + b2 = c2 For example, 3^2 + 4^2 = 9 + 16 = 25 = 5^2.
+>There exists exactly one Pythagorean triplet for which a + b + c = 1000.
+>Find the product abc.
 
 ###problem 10 
-
-The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
-
-Find the sum of all the primes below two million.
+>The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
+>Find the sum of all the primes below two million.
 
 ###problem 16 
 
