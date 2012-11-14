@@ -32,7 +32,7 @@ List of problems:
 
 insertionsort 
 descriptions:
->Sorting numbers using insertion sort.
+> Sorting numbers using insertion sort.
 
 mergesort 
 descriptions:
