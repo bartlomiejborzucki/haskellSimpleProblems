@@ -30,9 +30,9 @@ List of problems:
 >Define new function that takes your name and returns welcome message (e.g. After taking a name Tomek function returns “Witaj Tomek”). To concatinate strings your should use operator “++”
 
 
-insertionsort 
+###insertionsort 
 descriptions:
-> Sorting numbers using insertion sort.
+>Sorting numbers using insertion sort.
 
 mergesort 
 descriptions:
