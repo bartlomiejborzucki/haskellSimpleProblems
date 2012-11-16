@@ -112,7 +112,8 @@ List of problems:
 
 >Sorting numbers using selection sort.
 
-
+###binsearch
+>The function searches numbers using binary search
 
 ###treesort
 
